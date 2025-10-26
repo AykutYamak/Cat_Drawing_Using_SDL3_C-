@@ -1,0 +1,11 @@
+﻿  pusheenCat.cpp
+D:\СУ ФМИ\1 Курс\УП\PusheenCat\PusheenCat\pusheenCat.cpp(51,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\СУ ФМИ\1 Курс\УП\PusheenCat\PusheenCat\pusheenCat.cpp(51,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\СУ ФМИ\1 Курс\УП\PusheenCat\PusheenCat\pusheenCat.cpp(51,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\СУ ФМИ\1 Курс\УП\PusheenCat\PusheenCat\pusheenCat.cpp(51,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\СУ ФМИ\1 Курс\УП\PusheenCat\PusheenCat\pusheenCat.cpp(68,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\СУ ФМИ\1 Курс\УП\PusheenCat\PusheenCat\pusheenCat.cpp(68,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\СУ ФМИ\1 Курс\УП\PusheenCat\PusheenCat\pusheenCat.cpp(68,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\СУ ФМИ\1 Курс\УП\PusheenCat\PusheenCat\pusheenCat.cpp(68,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\СУ ФМИ\1 Курс\УП\PusheenCat\PusheenCat\pusheenCat.cpp(74,9): warning C4101: 'i': unreferenced local variable
+  PusheenCat.vcxproj -> D:\СУ ФМИ\1 Курс\УП\PusheenCat\x64\Debug\PusheenCat.exe
